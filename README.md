@@ -1,2 +1,3 @@
-# Demo-for-GitHUB
-This is my GITHUB tutorial
+# Demo-for-GitHub
+This is my first GitHub tutorial
+
